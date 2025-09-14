@@ -3,7 +3,8 @@ Nama : Fatimatuzzahrah NIM : 2509116020 Sistem Informasi A'2025
 
 **Sistem Manajemen Jasa Penitipan Hewan**
 
-**Deskripsi singkat**\n
+**Deskripsi singkat**
+
 Program sederhana untuk mengelola data penitipan hewan.
 Fitur utama :
 - menginput data hewan peliharaan
@@ -19,21 +20,9 @@ ________________________________________________________________________________
   
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-***Penjelasan Flowchart***
+***Flowchart***
 
 ![Flowchart minpro1](https://github.com/user-attachments/assets/becf1153-b0e7-4fe8-8435-65b102bc7fe5)
-
-1. *Mulai* - Program dimulai
-2. *Input nama hewan* - User memasukkan nama hewan
-3. *Input jenis hewan* - User memasukkan jenis hewan 
-4. *Input lama penitipan* - User memasukkan lama penitipan dalam hitungan hari
-5. *Simpan data ke list* - Data yang diinput disimpan dalam list dengan format [nama, jenis, lama]
-6. *Menampilkan data* - Program menampilkan data hewan yang sudah disimpan
-7. *Masukkan data lagi?* - User memilih apakah ingin menambah data lagi
-   - Jika *Ya*, kembali ke input data (maksimal 3 data hewan)  
-   - Jika *Tidak*, program selesai
-8. *Selesai* - Program berhenti
-
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
